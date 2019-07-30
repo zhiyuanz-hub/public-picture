@@ -10,7 +10,7 @@ git clone https://github.com/davidsandberg/facenet.git
 ## 3. 下载lfw数据集，并解压
 下载链接： http://vis-www.cs.umass.edu/lfw/lfw.tgz
 ## 4. 下载预先训练的模型
-下载链接: https://github.com/davidsandberg/facenet，下载文件名为 20180402-114759的这个并解压，这个文件的下载地址为： https://drive.google.com/open?id=1EXPBSXwTaqrSC0OhUdXNmKSh9qJUQ55-（需要翻墙用Google下载），得到的文件夹里有4个文件
+下载链接: https://github.com/davidsandberg/facenet, 下载文件名为 20180402-114759的这个并解压，这个文件的下载地址为： https://drive.google.com/open?id=1EXPBSXwTaqrSC0OhUdXNmKSh9qJUQ55- （需要翻墙用Google下载），得到的文件夹里有4个文件
 ## 5. 环境配置
 打开 facenet 这个文件夹，找到requirements.txt文件并打开，需要的环境有：tensorflow==1.7、scipy、scikit-learn、opencv-python、h5py、matplotlib、Pillow、requests、psutil
 + 可以直接执行：sudo pip install -r requirements.txt 进行全部下载
